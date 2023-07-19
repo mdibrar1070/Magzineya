@@ -1,0 +1,72 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    text-align: center;
+    font-family: "Segoe Script";
+    size: 50px;
+    display: inline;
+
+
+
+}
+
+.button {
+    display: flex;
+    position: absolute;
+    right: 0%;
+}
+
+.container h1 {
+    font-size: 70px;
+}
+
+.carousel-inner {
+    height: 400px;
+
+}
+
+h2 {
+    position: absolute;
+    left: 20px;
+    background-color: blue;
+
+    font-size: 40px;
+}
+
+.topmodels {
+    display: flex;
+    column-gap: 2%;
+}
+
+.WidthContainer-id_1jihrj1 {
+    display: flex;
+}
+
+footer {
+
+    background-color: cyan;
+    color: black;
+    display: flex;
+
+}
+
+blockquote {
+    color: black;
+    position: absolute;
+    right: 0%;
+    font-family: 'Times New Roman', Times, serif;
+
+
+}
+
+.ct-footer-copyright {
+    font-size: 30x;
+    position: relative;
+    left: 470px;
+    top: 80px;
+
+
+}
